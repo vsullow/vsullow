@@ -41,7 +41,6 @@ Enfocado en rendimiento, escalabilidad y arquitectura multicliente.
 ![MySQL](https://img.shields.io/badge/MySQL-Optimizado-red)
 
 ---
----
 
 ## 📞 ¿Necesitás un sistema para tu empresa?
 
