@@ -26,6 +26,31 @@ Enfocado en rendimiento, escalabilidad y arquitectura multicliente.
 
 ---
 
+## 🧩 Casos de uso reales
+
+- Empresas con ERP completo en producción
+- Sistemas multicliente con subdominios independientes
+- Control de stock y depósitos en tiempo real
+- Facturación electrónica integrada (SIFEN Paraguay)
+- Infraestructura con servidores virtualizados (Proxmox)
+
+---
+![ERP](https://img.shields.io/badge/ERP-Activo-blue)
+![SaaS](https://img.shields.io/badge/SaaS-Multicliente-green)
+![Proxmox](https://img.shields.io/badge/Proxmox-Cluster-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Optimizado-red)
+
+---
+---
+
+## 📞 ¿Necesitás un sistema para tu empresa?
+
+Desarrollo soluciones a medida listas para producción.
+
+📧 vsullow@vsline.com  
+🌐 https://www.vsline.com  
+
+---
 ## 🌐 Proyectos activos
 
 * https://www.vsline.com
